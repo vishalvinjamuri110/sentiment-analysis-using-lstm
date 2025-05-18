@@ -1,0 +1,12 @@
+## Dataset
+
+This project uses the IMDB Movie Reviews Dataset. The dataset can be found on Kaggle:
+
+[https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows](kaggle)
+
+**Instructions to use the dataset:**
+
+1.  Download the `IMDB Dataset.csv` file from the Kaggle link above.
+2.  Place the downloaded `IMDB Dataset.csv` file into a folder named `data/` in the root directory of this project. (Or, if your code expects it in the root, just say "Place it in the root directory").
+3.  Alternatively, you can use the Kaggle API to download the dataset directly. See instructions below.
+4.  or directly upload code and the dataset in google colab and the code will run successfully.
